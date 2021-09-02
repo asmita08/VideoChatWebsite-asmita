@@ -25,4 +25,5 @@ A React Video Chatting Website using WebRTC.
 
 * Socket.io
 
-
+### The frontend is deployed on Netlify and the backend is deployed in Heorku.
+You can view the deployed project in https://videochatwebsite-asmita.netlify.app/
